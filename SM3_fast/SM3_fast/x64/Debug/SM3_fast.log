@@ -1,0 +1,8 @@
+﻿  源.cpp
+D:\class\22\创新创业\SM3_fast\SM3_fast\源.cpp(19,2): warning C4091: “static ”: 没有声明变量时忽略“const <unnamed-enum-A>”的左侧
+D:\class\22\创新创业\SM3_fast\SM3_fast\源.cpp(97,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\class\22\创新创业\SM3_fast\SM3_fast\源.cpp(139,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\class\22\创新创业\SM3_fast\SM3_fast\源.cpp(188,21): warning C4474: printf: 格式字符串中传递的参数太多
+D:\class\22\创新创业\SM3_fast\SM3_fast\源.cpp(188,21): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+D:\class\22\创新创业\SM3_fast\SM3_fast\源.cpp(190,41): warning C4267: “初始化”: 从“size_t”转换到“uint”，可能丢失数据
+  SM3_fast.vcxproj -> D:\class\22\创新创业\SM3_fast\x64\Debug\SM3_fast.exe
